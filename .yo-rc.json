@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": false,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "people-picker",
+    "libraryId": "246f76ce-e9f6-4e5e-9364-1272e5570a77",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
